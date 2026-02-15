@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "new_biomes:block/palmfence",
+    "particle": "new_biomes:block/palmfence"
+  },
+  "render_type": "solid"
+}
