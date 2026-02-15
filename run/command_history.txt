@@ -1,0 +1,2 @@
+/kill @e[type=item]
+/give Dev minecraft:water_bucket
