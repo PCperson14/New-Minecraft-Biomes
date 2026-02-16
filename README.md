@@ -6,7 +6,6 @@ C:\Users\(Your Username)\Appdata\Roaming\.minecraft\Mods
 ```
 Now all you need to do is load up Minecraft!
 If you want to change the biome to single biome. The only custom biome currently is palm.
-New update 1.0.1 bug fixes and allows mobs to spawn in the Palm biome.
 
 **Possible Errors**
 
