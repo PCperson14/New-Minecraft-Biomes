@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "new_biomes:block/palmtreeleaves",
-    "particle": "new_biomes:block/palmtreeleaves"
-  },
-  "render_type": "cutout"
-}
