@@ -1,0 +1,397 @@
+{
+  "mod_elements": [
+    {
+      "name": "Palmbiomelog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomelog",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_biomes/blockstates/palmbiomelog.json",
+          "src/main/java/net/mcreator/newbiomes/block/PalmbiomelogBlock.java",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palmbiomelog.json",
+          "src/main/resources/assets/new_biomes/models/item/palmbiomelog.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomelog.json",
+          "src/main/resources/assets/new_biomes/items/palmbiomelog.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmbiomeleaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomeleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_biomes/items/palmbiomeleaves.json",
+          "src/main/java/net/mcreator/newbiomes/block/PalmbiomeleavesBlock.java",
+          "src/main/resources/assets/new_biomes/blockstates/palmbiomeleaves.json",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palmbiomeleaves.json",
+          "src/main/resources/assets/new_biomes/models/item/palmbiomeleaves.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomeleaves.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmbiomeplanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomeplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_biomes/blockstates/palmbiomeplanks.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomeplanks.json",
+          "src/main/java/net/mcreator/newbiomes/block/PalmbiomeplanksBlock.java",
+          "src/main/resources/assets/new_biomes/items/palmbiomeplanks.json",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palmbiomeplanks.json",
+          "src/main/resources/assets/new_biomes/models/item/palmbiomeplanks.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmbiomeplanksrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomeplanksrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/recipe/palmbiomeplanksrec.json",
+          "src/main/resources/data/new_biomes/advancement/recipes/palmbiomeplanksrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmbiomeslab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomeslab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/newbiomes/block/PalmbiomeslabBlock.java",
+          "src/main/resources/assets/new_biomes/blockstates/palmbiomeslab.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomeslab.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomeslab_full.json",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palmbiomeslab.json",
+          "src/main/resources/assets/new_biomes/items/palmbiomeslab.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomeslab_top.json",
+          "src/main/resources/assets/new_biomes/models/item/palmbiomeslab.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmslabrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmslabrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/recipe/palmslabrec.json",
+          "src/main/resources/data/new_biomes/advancement/recipes/palmslabrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmbiomefence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmbiomefence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_biomes/blockstates/palmbiomefence.json",
+          "src/main/resources/assets/new_biomes/models/item/palmbiomefence.json",
+          "src/main/java/net/mcreator/newbiomes/block/PalmbiomefenceBlock.java",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomefence_inventory.json",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palmbiomefence.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomefence.json",
+          "src/main/resources/assets/new_biomes/items/palmbiomefence.json",
+          "src/main/resources/assets/new_biomes/models/block/palmbiomefence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "Palmfencerec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmfencerec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/palmfencerec.json",
+          "src/main/resources/data/new_biomes/recipe/palmfencerec.json"
+        ]
+      }
+    },
+    {
+      "name": "Palm",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/worldgen/biome/palm.json",
+          "src/main/resources/data/new_biomes/worldgen/placed_feature/palm_tree.json",
+          "src/main/java/net/mcreator/newbiomes/world/features/treedecorators/PalmTrunkDecorator.java",
+          "src/main/java/net/mcreator/newbiomes/world/features/treedecorators/PalmLeaveDecorator.java",
+          "src/main/resources/data/new_biomes/worldgen/configured_feature/palm_tree.json",
+          "src/main/java/net/mcreator/newbiomes/world/features/treedecorators/PalmFruitDecorator.java"
+        ]
+      }
+    },
+    {
+      "name": "Pickaxerec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxerec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/pickaxerec.json",
+          "src/main/resources/data/new_biomes/recipe/pickaxerec.json"
+        ]
+      }
+    },
+    {
+      "name": "Axerec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axerec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/axerec.json",
+          "src/main/resources/data/new_biomes/recipe/axerec.json"
+        ]
+      }
+    },
+    {
+      "name": "Hoerec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoerec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/hoerec.json",
+          "src/main/resources/data/new_biomes/recipe/hoerec.json"
+        ]
+      }
+    },
+    {
+      "name": "Shovelrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovelrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/shovelrec.json",
+          "src/main/resources/data/new_biomes/recipe/shovelrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Swordrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "swordrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/swordrec.json",
+          "src/main/resources/data/new_biomes/recipe/swordrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Tablerec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tablerec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/recipe/tablerec.json"
+        ]
+      }
+    },
+    {
+      "name": "PalmWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palm_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/new_biomes/models/item/palm_wood.json",
+          "src/main/resources/assets/new_biomes/models/block/palm_wood.json",
+          "src/main/resources/assets/new_biomes/blockstates/palm_wood.json",
+          "src/main/resources/data/new_biomes/loot_table/blocks/palm_wood.json",
+          "src/main/resources/assets/new_biomes/items/palm_wood.json",
+          "src/main/java/net/mcreator/newbiomes/block/PalmWoodBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Palmwoodrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "palmwoodrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/recipe/palmwoodrec.json",
+          "src/main/resources/data/new_biomes/advancement/recipes/palmwoodrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Stickrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stickrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/stickrec.json",
+          "src/main/resources/data/new_biomes/recipe/stickrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Charcoalrec",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "charcoalrec",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/new_biomes/advancement/recipes/charcoalrec.json",
+          "src/main/resources/data/new_biomes/recipe/charcoalrec.json"
+        ]
+      }
+    },
+    {
+      "name": "Smeltlog",
+      "type": "itemextension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smeltlog",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Smeltplank",
+      "type": "itemextension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smeltplank",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Smeltslab",
+      "type": "itemextension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smeltslab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Smeltfence",
+      "type": "itemextension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smeltfence",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:Palmbiomelog"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:Palmbiomeslab"
+    ],
+    "BLOCKS:minecraft:wooden_fences": [
+      "~CUSTOM:Palmbiomefence"
+    ],
+    "BIOMES:minecraft:has_structure/stronghold": [
+      "~CUSTOM:Palm"
+    ],
+    "BIOMES:minecraft:has_structure/pillager_outpost": [
+      "~CUSTOM:Palm"
+    ],
+    "BIOMES:minecraft:has_structure/swamp_hut": [
+      "~CUSTOM:Palm"
+    ],
+    "BIOMES:minecraft:has_structure/village_plains": [
+      "~CUSTOM:Palm"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_jungle": [
+      "~CUSTOM:Palm"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.new_biomes.palmbiomelog": "Palm Log",
+      "item.new_biomes.palmbiomeleaves": "Palm Leaves",
+      "item.new_biomes.palmbiomeplanks": "Palm Planks",
+      "item.new_biomes.palmbiomeslab": "Palm Slab",
+      "item.new_biomes.palmbiomefence": "Palm Fence",
+      "biome.new_biomes.palm": "Palm",
+      "item.new_biomes.palm_wood": "Palm Wood"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/newbiomes/init/NewBiomesModBiomes.java",
+      "src/main/java/net/mcreator/newbiomes/mixin/NoiseGeneratorSettingsMixin.java",
+      "src/main/java/net/mcreator/newbiomes/init/NewBiomesModFuels.java",
+      "src/main/java/net/mcreator/newbiomes/init/NewBiomesModBlocks.java",
+      "src/main/java/net/mcreator/newbiomes/init/NewBiomesModItems.java",
+      "src/main/java/net/mcreator/newbiomes/init/NewBiomesModTabs.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/new_biomes.mixins.json",
+      "src/main/resources/META-INF/accesstransformer.cfg",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/newbiomes/NewBiomesMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "new_biomes",
+    "modName": "New Biomes",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "modElementsPackage": "net.mcreator.newbiomes"
+  },
+  "mcreatorVersion": 202500345720
+}
