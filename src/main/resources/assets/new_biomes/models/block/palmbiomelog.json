@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "new_biomes:block/bottomlogpalm",
+    "up": "new_biomes:block/bottomlogpalm",
+    "north": "new_biomes:block/palmlogside",
+    "east": "new_biomes:block/palmlogside",
+    "south": "new_biomes:block/palmlogside",
+    "west": "new_biomes:block/palmlogside",
+    "particle": "new_biomes:block/bottomlogpalm"
+  },
+  "render_type": "solid"
+}

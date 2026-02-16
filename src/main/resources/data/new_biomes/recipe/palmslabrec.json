@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "new_biomes:palmbiomeplanks"
+  },
+  "result": {
+    "id": "new_biomes:palmbiomeslab",
+    "count": 6
+  }
+}
